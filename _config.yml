@@ -1,4 +1,4 @@
-layout_spectrum: 0.839254536665976
+name: blahagraphy
 opengraph:
   image: null
   type: null
@@ -9,25 +9,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.2212766
-  lightness: 0.4425532
   brandStrength: 0.9842688492499292
+  rhythmicContrast: 0.4380338
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  rhythmicContrast: 0.4380338
-typography_spectrum: 0.7629819889552891
+  lightness: 0.4425532
+typography_spectrum: 0.5638298
 cta:
   bucket: null
   version: null
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: blahagraphy
+layout_spectrum: 0.5617021
