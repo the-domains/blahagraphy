@@ -4,7 +4,7 @@
         <description><![CDATA[Photography by Michael Blaha]]></description>
         <link>https://thegrid.ai/blahagraphy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 04:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 04:30:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blahagraphy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New site]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/blahagraphy/new-site/index.html</link>
             <guid isPermaLink="false">9be6dd24-f341-4585-b495-0593d68434c4</guid>
             <pubDate>Tue, 15 Dec 2015 03:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Burtons]]></title>
+            <description><![CDATA[<article><h1>The Burtons</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46875ae3-b3cb-4a51-b45b-49f97abb1ed5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blahagraphy/the-burtons/index.html</link>
+            <guid isPermaLink="false">ed4f95b5-241d-4fa5-b0ad-caf419d40450</guid>
+            <pubDate>Tue, 15 Dec 2015 04:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Journey Begins]]></title>
+            <description><![CDATA[<article><h1>The Journey Begins</h1><p>I've got a new website.  Now I just need to make it good!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c91cbe5ed48de38a88f8761d963f3a074bf39a0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blahagraphy/the-journey-begins/index.html</link>
+            <guid isPermaLink="false">bbac2f16-bdd9-4ee5-8016-925c18ebea73</guid>
+            <pubDate>Tue, 15 Dec 2015 04:25:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
