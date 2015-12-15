@@ -1,28 +1,40 @@
-name: blahagraphy
-favicon: null
 layout_spectrum: 0.839254536665976
-typography_spectrum: 0.7629819889552891
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2212766
+  lightness: 0.4425532
+  brandStrength: 0.9842688492499292
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.9842688492499292
-  lightness: 0.7453363994136453
-  saturation: 0.7043416288215667
-  rhythmicContrast: 0.43803379335440695
-purpose: []
+  rhythmicContrast: 0.4380338
+typography_spectrum: 0.7629819889552891
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: blahagraphy
