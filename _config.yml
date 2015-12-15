@@ -1,7 +1,7 @@
 name: blahagraphy
 favicon: null
 layout_spectrum: 0.5617021
-typography_spectrum: 0.5638298
+typography_spectrum: 0.50327
 collections:
   - index:
       path: /
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9842688492499292
+    - '#f8f8f8'
+    - '#151515'
+    - '#635d5f'
+    - '#3b3638'
+    - '#b1acb0'
+  brandStrength: 1
   lightness: 0.4425532
   saturation: 0.2212766
   rhythmicContrast: 0.4380338
