@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I've got a new website.  Now I just need to make it good!"
-datePublished: '2015-12-16T01:17:11.589Z'
-dateModified: '2015-12-16T01:17:08.861Z'
+datePublished: '2015-12-16T01:20:24.654Z'
+dateModified: '2015-12-16T01:20:22.074Z'
 title: The Journey Begins
 author: []
 sourcePath: _posts/2015-12-15-the-journey-begins.md
