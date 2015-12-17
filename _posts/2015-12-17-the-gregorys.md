@@ -6,31 +6,29 @@ inLanguage: null
 starred: false
 keywords: []
 description: A shoot I did with the Gregory family a few weeks back.
-datePublished: '2015-12-17T01:58:25.308Z'
-dateModified: '2015-12-17T01:58:13.758Z'
+datePublished: '2015-12-17T02:00:52.854Z'
+dateModified: '2015-12-17T02:00:49.113Z'
 title: The Gregorys
 author: []
+sourcePath: _posts/2015-12-17-the-gregorys.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-the-gregorys.md
-published: true
 url: the-gregorys/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9c4d5c6-ce2c-46f4-9cee-2ed41497d091.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15f40873-efc1-4819-901f-e0b2b1834d23.jpg)
-
-null
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/349abca7-bff7-4863-aaa9-47874b17c7b4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fda03759-d805-431c-9128-23b44e6409ff.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b073a15-3100-45d1-9307-90b940e9737a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3545f229-fe76-48d1-b698-6bf9d1e875b1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/769bf378-c27c-4e1b-9ae8-13e945983bd4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e529202a-a6f7-450a-942b-28df665ce627.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3afeb685-15ac-440c-be9a-58a616202f03.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c24fe8b0-5442-41ce-a3f2-e71f5071b7dd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8928ed1cd047fd0c765968e28c4137bcea77eb78.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a9c86efda3aae754f3232074052c1e0e1988d05.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bb3639f3b750e196c78634329714d9596c0f21f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a2c7543e2c04758757748fc5bd41cbb5580ebd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/975a556c9752bf30be34d53ad67f14045325aef4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fcd8bd4454e813c0c31988ad66c68f49b397638a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/109083716e534cbb525aae305b72bd14a341086d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51ecae06eb4e932a542c3eae1aa311b18bd241bb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb86cbf92a3bcaca8be3988483fdbb4f05929ed2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/47691691e8a6ac2701bf343931e0945177fabb4c.jpg)
