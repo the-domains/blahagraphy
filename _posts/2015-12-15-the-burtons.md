@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-16T01:16:21.686Z'
-dateModified: '2015-12-16T01:16:02.980Z'
+datePublished: '2015-12-17T02:01:01.718Z'
+dateModified: '2015-12-17T01:58:42.729Z'
 title: The Burtons
 author: []
 sourcePath: _posts/2015-12-15-the-burtons.md
