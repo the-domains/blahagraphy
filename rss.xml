@@ -4,8 +4,15 @@
         <description><![CDATA[Photography by Michael Blaha]]></description>
         <link>https://thegrid.ai/blahagraphy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 01:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 01:58:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blahagraphy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Gregorys]]></title>
+            <description><![CDATA[<article><h1>The Gregorys</h1><p>A shoot I did with the Gregory family a few weeks back.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8928ed1cd047fd0c765968e28c4137bcea77eb78.jpg"></article>]]></description>
+            <link>https://thegrid.ai/blahagraphy/the-gregorys/index.html</link>
+            <guid isPermaLink="false">9ee28145-9472-4898-a1ac-78b86b0e6689</guid>
+            <pubDate>Thu, 17 Dec 2015 01:58:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Burtons]]></title>
             <description><![CDATA[<article><h1>The Burtons</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bfbde42638cf46bae82f2aa550070e21e15def6.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[The Journey Begins]]></title>
-            <description><![CDATA[<article><h1>The Journey Begins</h1><p>I've got a new website.  Now I just need to make it good!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cba7ab2794914b936201416c79a609d3a89f5cb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Journey Begins</h1><p>I've got a new website.  Now I just need to make it good!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7147f68e948059d7131840f9e3e5363cc43ca88c.jpg"></article>]]></description>
             <link>https://thegrid.ai/blahagraphy/the-journey-begins/index.html</link>
             <guid isPermaLink="false">bbac2f16-bdd9-4ee5-8016-925c18ebea73</guid>
             <pubDate>Wed, 16 Dec 2015 01:20:24 GMT</pubDate>
