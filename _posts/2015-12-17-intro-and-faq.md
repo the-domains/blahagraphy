@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T00:52:51.142Z'
-dateModified: '2015-12-17T02:42:03.121Z'
+datePublished: '2015-12-23T04:05:05.166Z'
+dateModified: '2015-12-23T04:04:40.031Z'
 title: Intro and FAQ
 author: []
 sourcePath: _posts/2015-12-17-intro-and-faq.md
