@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T04:05:05.166Z'
-dateModified: '2015-12-23T04:04:40.031Z'
+datePublished: '2015-12-30T04:20:38.725Z'
+dateModified: '2015-12-30T04:20:36.945Z'
 title: Intro and FAQ
 author: []
 sourcePath: _posts/2015-12-17-intro-and-faq.md
@@ -22,8 +22,6 @@ url: intro-and-faq/index.html
 _type: WebPage
 
 ---
-Hi, I'm Mike.   People are my passion and capturing them in images is a privelege I don't take lightly.  Heck I'm thrilled to be asked to capture events from the most important day of your life to a intimate family moment.  
-
 Here are some question people frequently ask of me about my photography:
 
 Q: Do you shoot in digital or film?
