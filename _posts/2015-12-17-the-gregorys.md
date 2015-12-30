@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A shoot I did with the Gregory family a few weeks back.
-datePublished: '2015-12-30T04:15:13.156Z'
-dateModified: '2015-12-30T04:15:02.631Z'
+datePublished: '2015-12-30T04:29:36.178Z'
+dateModified: '2015-12-30T04:21:25.205Z'
 title: The Gregorys
 author: []
 sourcePath: _posts/2015-12-17-the-gregorys.md
