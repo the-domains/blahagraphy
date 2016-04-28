@@ -3,13 +3,14 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T02:21:49.903Z'
-dateModified: '2015-12-17T02:21:46.882Z'
-title: The Burtons
-author: []
+datePublished: '2016-04-28T03:02:32.327Z'
+dateModified: '2016-04-28T03:01:21.142Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-15-the-burtons.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: the-burtons/index.html
 _type: Article
 
