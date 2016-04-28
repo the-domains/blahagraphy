@@ -3,13 +3,14 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: A shoot I did with the Gregory family a few weeks back.
-datePublished: '2015-12-30T04:29:36.178Z'
-dateModified: '2015-12-30T04:21:25.205Z'
-title: The Gregorys
-author: []
+description: ''
+datePublished: '2016-04-28T03:02:24.302Z'
+dateModified: '2016-04-28T03:00:43.541Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2015-12-17-the-gregorys.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: the-gregorys/index.html
 _type: Article
 
